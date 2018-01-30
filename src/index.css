@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+input {
+  width: 200px;
+  height: 25px;
+  font-size: 20px;
+  border: none;
+  border-bottom: solid 1px black;
+}
+p {
+  font-size: 20px;
+}
+button {
+  margin-top: 10px;
+  height: 25px;
+  background-color: white;
+  padding: 5px 10px;
+  border: 1px black solid;
+  border-radius: 3px;
+}
